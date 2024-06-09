@@ -1,8 +1,8 @@
 # Библиотека DS1302 RTC (Real Time Clock) для Arduino
 
 
-
 Это библиотека DS1302 RTC (Real Time Clock) с интерфейсом на 3 провода для Arduino.
+![572](https://github.com/Alash-electronics/Alash_DS1302/assets/171731850/db6a7647-add4-40d0-a586-eb4a393d6035)
 
 
 ## Особенности библиотеки
