@@ -41,6 +41,9 @@ jobs:
         run: |
           mkdir -p "$HOME/Arduino/libraries"
           ln -s "$PWD" "$HOME/Arduino/libraries/Alash_DS1302"
+      - name: Install dependencies
+        run: |
+          arduino-cli lib install "AlashSerialTerminal"
       - name: Compile examples
         run: |
           fail=0
